@@ -1,0 +1,70 @@
+
+Here's a basic structure for a Privacy Policy tailored for an "Interview Preparation" Android app, considering the owner is based in India. This policy needs to comply with Google Play Store requirements and Indian privacy laws, including the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011:
+
+Privacy Policy for Interview Preparation
+
+Effective Date: 2024-01-01
+
+1. Introduction
+
+Welcome to Interview Preparation. This Privacy Policy describes how we collect, use, protect, and handle your personal data when you use our mobile application on the Google Play Store. We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this app, then you can be assured that it will only be used in accordance with this privacy statement.
+
+2. Information We Collect
+
+Personal Information: We may collect your name, email address, and other contact information if you choose to register or contact us.
+Usage Data: We automatically collect information about how you use our app, including the type of device you use, actions taken within the app, and interaction times.
+Location Data: If enabled, we might collect your location to provide location-specific content or ads.
+Cookies and Similar Technologies: We use cookies and similar technologies to collect data about your browsing activities over time and across different sites following your use of the app.
+
+3. How We Use Your Information
+
+To improve our app (e.g., understanding usage trends to enhance functionality).
+For marketing and promotional activities, including personalized content and ads.
+To respond to your queries or requests.
+For security purposes, to detect and prevent fraud or other illegal activities.
+
+4. Sharing of Your Information
+
+We do not sell, trade, or rent your personal information to others. However, we may share your data with:
+
+Service Providers: Companies that provide services on our behalf, such as hosting, analytics, and customer service.
+Legal Compliance: If required to do so by law or in response to valid requests by public authorities.
+
+5. Data Security
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, so we cannot guarantee its absolute security.
+
+6. Your Rights
+
+Under Indian law, you have certain rights regarding your personal information, including:
+
+The right to access your personal data.
+The right to request correction or deletion of your data.
+The right to restrict or object to our use of your data.
+
+To exercise these rights, please contact us at [your contact email].
+
+7. Third-Party Links
+
+Our app may contain links to other sites or services. We are not responsible for the privacy practices or content of these third parties. 
+
+8. Children's Privacy
+
+Our app does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary actions.
+
+9. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+10. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at developerw324@gmail.com.
+
+Note: This Privacy Policy template is just a guideline. It's strongly recommended to review this policy with a legal professional to ensure compliance with all relevant laws and Google Play Store policies:
+
+The policy should be accessible both within the app (e.g., in settings or legal notices) and on the app's store listing.
+
+Ensure the policy includes details on how you handle sensitive permissions if your app requires them.
+Compliance with Google's Data Safety Form is also necessary, where you detail data handling practices.
+
+Remember, privacy laws evolve, and staying updated with both Indian and international data protection regulations is crucial.
